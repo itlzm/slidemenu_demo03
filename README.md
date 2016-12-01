@@ -1,0 +1,2 @@
+# slidemenu_demo03
+将SlidingMenu当作普通控件 把SlidingMenu作为普通的view，然后在布局中声明
